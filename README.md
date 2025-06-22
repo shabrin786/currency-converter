@@ -46,7 +46,8 @@ A simple and interactive **Currency Converter** web application built using **HT
 
 ##  Screenshot Preview
 
-*(Insert screenshot here once available)*
+![Currency Converter Preview](screenshot.png)
+
 
 ---
 
